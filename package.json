@@ -1,0 +1,23 @@
+{
+  "name": "edulab",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "express": "^4.19.2",
+    "pdfkit": "^0.15.0",
+    "reflect-metadata": "^0.2.2",
+    "sqlite3": "^5.1.7",
+    "tsyringe": "^4.8.0",
+    "typeorm": "^0.3.20",
+    "validator": "^13.12.0"
+  }
+}
